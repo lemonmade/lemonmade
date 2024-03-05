@@ -14,6 +14,7 @@
 - [Web debugging: Chrome](https://www.google.com)
 - [Git remotes: GitHub](https://github.com)
 - [Git local: Tower](https://www.git-tower.com)
+- Terminal: Mac `Terminal.app`
 
 ## Financials
 
@@ -29,3 +30,4 @@
 
 - [Music: Apple Music](https://music.apple.com)
 - [Podcasts: Overcast](https://overcast.fm)
+- [RSS: Feedbin](https://feedbin.com)
