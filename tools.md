@@ -10,8 +10,8 @@
 
 ## Programming
 
-- [Web development: VSCode](https://code.visualstudio.com)
-- [Web debugging: Chrome](https://www.google.com)
+- [Web development editor: VSCode](https://code.visualstudio.com)
+- [Web development debugging: Chrome](https://www.google.com)
 - [Git remotes: GitHub](https://github.com)
 - [Git local: Tower](https://www.git-tower.com)
 - Terminal: Mac `Terminal.app`
