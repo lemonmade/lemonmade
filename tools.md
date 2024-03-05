@@ -2,6 +2,7 @@
 
 ## Internet
 
+- [Primary browser: Safari Technology Preview](https://developer.apple.com/safari/technology-preview)
 - [Primary email: Gmail](https://mail.google.com)
 - [Secondary email: iCloud](https://www.icloud.com/mail)
 - [Calendars: Google Calendar](https://calendar.google.com)
@@ -22,7 +23,9 @@
 - [Shopify RRSP: Desjardins](https://id.desjardins.com/login?login_hint=gpap-ice-participant)
 - [Shopify stock holdings: Shareworks](https://shareworks.solium.com/solium/servlet/userLogin)
 - [Micro loans: Kiva](https://login.kiva.org/login)
-
-## Legal
-
 - [Will: Willful](https://app.willful.co)
+
+## Media
+
+- [Music: Apple Music](https://music.apple.com)
+- [Podcasts: Overcast](https://overcast.fm)
