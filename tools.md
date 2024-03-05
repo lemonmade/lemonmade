@@ -1,5 +1,11 @@
 # Tools
 
+## Internet
+
+- [Primary email: Gmail](https://mail.google.com)
+- [Secondary email: iCloud](https://www.icloud.com/mail)
+- [Calendars: Google Calendar](https://calendar.google.com)
+
 ## Programming
 
 - [Web development: VSCode](https://code.visualstudio.com)
