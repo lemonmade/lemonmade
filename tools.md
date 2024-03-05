@@ -5,12 +5,14 @@
 - [Primary email: Gmail](https://mail.google.com)
 - [Secondary email: iCloud](https://www.icloud.com/mail)
 - [Calendars: Google Calendar](https://calendar.google.com)
+- [Todos: Things](https://culturedcode.com/things)
 
 ## Programming
 
 - [Web development: VSCode](https://code.visualstudio.com)
 - [Web debugging: Chrome](https://www.google.com)
-- [Git: Tower](https://www.git-tower.com)
+- [Git remotes: GitHub](https://github.com)
+- [Git local: Tower](https://www.git-tower.com)
 
 ## Financials
 
