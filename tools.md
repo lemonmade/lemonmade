@@ -7,6 +7,7 @@
 - [Secondary email: iCloud](https://www.icloud.com/mail)
 - [Calendars: Google Calendar](https://calendar.google.com)
 - [Todos: Things](https://culturedcode.com/things)
+- Passwords: iCloud Keychain (with some [1Password](https://1password.com))
 
 ## Programming
 
@@ -28,6 +29,7 @@
 
 ## Media
 
+- [E-books: Apple Books](https://www.apple.com/apple-books)
 - [Music: Apple Music](https://music.apple.com)
 - [Podcasts: Overcast](https://overcast.fm)
 - [RSS: Feedbin](https://feedbin.com)
