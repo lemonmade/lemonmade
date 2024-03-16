@@ -5,3 +5,7 @@ Janine Benyus from “Biomimicry: Innovation Inspired”
 > Nothing is less real than realism. Details are confusing. It is only by selection, by elimination, by emphasis, that we get at the real meaning of things.
 
 Georgia O'Keeffe
+
+> Listen, Challenge, Commit. A strong leader has the humility to listen, the confidence to challenge, and the wisdom to know when to quit arguing and to get on board.
+
+Kim Malone Scott from “Radical Candor”
