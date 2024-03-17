@@ -15,6 +15,7 @@
 
 - [Web development editor: VSCode](https://code.visualstudio.com)
 - [Web development debugging: Chrome](https://www.google.com)
+- [Launcher: Raycast](https://www.raycast.com)
 - [Git remotes: GitHub](https://github.com)
 - [Git local: Tower](https://www.git-tower.com)
 - Terminal: Mac `Terminal.app`
