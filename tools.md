@@ -36,3 +36,7 @@
 - [Music: Apple Music](https://music.apple.com)
 - [Podcasts: Overcast](https://overcast.fm)
 - [RSS: Feedbin](https://feedbin.com)
+
+## Tech
+
+- [Routers: Eero](https://eero.com/)
