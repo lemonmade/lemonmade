@@ -9,3 +9,7 @@ Georgia O'Keeffe
 > Listen, Challenge, Commit. A strong leader has the humility to listen, the confidence to challenge, and the wisdom to know when to quit arguing and to get on board.
 
 Kim Malone Scott from “Radical Candor”
+
+> The cave you fear to enter holds the treasure you seek.
+
+Joseph Campbell
