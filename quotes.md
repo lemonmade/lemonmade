@@ -13,3 +13,7 @@ Kim Malone Scott from “Radical Candor”
 > The cave you fear to enter holds the treasure you seek.
 
 Joseph Campbell
+
+> Seek first to understand, then to be understood.
+
+Stephen R. Covey from ”The Seven Habits of Highly Effective People“
