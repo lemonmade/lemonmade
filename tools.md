@@ -7,7 +7,7 @@
 - [Secondary email: iCloud](https://www.icloud.com/mail)
 - [Calendars: Google Calendar](https://calendar.google.com)
 - [Todos: Things](https://culturedcode.com/things)
-- Passwords: iCloud Keychain (with some [1Password](https://1password.com))
+- Passwords: iCloud Keychain
 - File sync: iCloud Drive
 - [Cloud backups: Backblaze](https://www.backblaze.com/cloud-backup)
 
