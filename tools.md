@@ -7,8 +7,9 @@
 - [Secondary email: iCloud](https://www.icloud.com/mail)
 - [Calendars: Google Calendar](https://calendar.google.com)
 - [Todos: Things](https://culturedcode.com/things)
-- Passwords: iCloud Keychain
-- File sync: iCloud Drive
+- [Notes: iCloud Notes](https://www.icloud.com/notes)
+- Passwords: iCloud Passwords
+- [File sync: iCloud Drive](https://www.icloud.com/iclouddrive)
 - [Cloud backups: Backblaze](https://www.backblaze.com/cloud-backup)
 
 ## Programming
@@ -32,9 +33,10 @@
 
 ## Media
 
+- [Photos: iCloud Photos](https://www.icloud.com/photos)
 - [E-books: Apple Books](https://www.apple.com/apple-books)
 - [Music: Apple Music](https://music.apple.com)
-- Movies and TV: iTunes
+- [Movies and TV: Apple TV](https://www.apple.com/apple-tv-app/)
 - [Podcasts: Castro](https://castro.fm)
 - [RSS: Feedbin](https://feedbin.com)
 
