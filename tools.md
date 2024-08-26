@@ -7,7 +7,6 @@
 - [Secondary email: iCloud](https://www.icloud.com/mail)
 - [Calendars: Google Calendar](https://calendar.google.com)
 - [Todos: Things](https://culturedcode.com/things)
-- [Notes: iCloud Notes](https://www.icloud.com/notes)
 - Passwords: iCloud Passwords
 - [File sync: iCloud Drive](https://www.icloud.com/iclouddrive)
 - [Cloud backups: Backblaze](https://www.backblaze.com/cloud-backup)
@@ -20,6 +19,12 @@
 - [Git remotes: GitHub](https://github.com)
 - [Git local: Tower](https://www.git-tower.com)
 - Terminal: Mac `Terminal.app`
+
+## Digital brain
+
+- [Notes: iCloud Notes](https://www.icloud.com/notes)
+- [Bookmarks: Raindrop.io](https://raindrop.io/)
+- [Recipes: Crouton](https://crouton.app/)
 
 ## Financials
 
