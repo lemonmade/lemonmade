@@ -17,3 +17,7 @@ Joseph Campbell
 > Seek first to understand, then to be understood.
 
 Stephen R. Covey from ”The Seven Habits of Highly Effective People“
+
+> A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall. Speak what you think now in hard words, and to-morrow speak what to-morrow thinks in hard words again, though it contradict every thing you said to-day.
+
+Ralph Waldo Emerson from "Self-Reliance: An Excerpt from Collected Essays, First Series"
